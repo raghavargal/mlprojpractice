@@ -140,6 +140,7 @@ celerybeat.pid
 .venv
 env/
 venv/
+mlgitvenv/
 ENV/
 env.bak/
 venv.bak/
